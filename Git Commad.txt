@@ -1,0 +1,29 @@
+echo "# Project1NawazSem1Summer2023" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NawazC/Project1NawazSem1Summer2023.git
+git push -u origin main
+
+
+
+******************************************************
+git remote set-url origin git@github.com:username/projectname.git 
+
+git remote set-url origin https://github.com/NawazC/Project1NawazSem1Summer2023.git 
+
+
+git remote set-url origin git@github.com:NawazC/Project1NawazSem1Summer2023.git 
+
+****************************************************
+
+
+git init
+
+git commit -m "v1"
+
+
+git remote set-url origin https://github.com/NawazC/Project1NawazSem1Summer2023.git 
+
+git push -u origin main
